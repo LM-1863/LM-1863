@@ -1,4 +1,4 @@
 # LM
 ## About Me
-![Age: 17](https://img.shields.io/badge/Age-17-informational?style=for-the-badge)<br>
+![Age: 18](https://img.shields.io/badge/Age-18-informational?style=for-the-badge)<br>
 ![Native language: Japanese](https://img.shields.io/badge/Native_language-Japanese-orange?style=for-the-badge)
